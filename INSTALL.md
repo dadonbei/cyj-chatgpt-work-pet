@@ -10,7 +10,7 @@
 
 1. 使用 GitHub Desktop 克隆本私有仓库，或从 GitHub 下载 ZIP 并解压。
 2. 在 ChatGPT Work 中开启 Pets 工具/插件。
-3. 将 assets/pet/xiaoma-spritesheet-v2.png 附加到 ChatGPT Work 对话。
+3. 将 xiaoma-spritesheet-v2.png 附加到 ChatGPT Work 对话。
 4. 使用下面的提示词，让 Pets 按原图集创建；不要选择 20% 预览图集。
 
 提示词：
@@ -22,9 +22,9 @@
 
 ## 选用正确的文件
 
-- 安装文件：assets/pet/xiaoma-spritesheet-v2.png，透明 PNG，1536×2288 像素，Pets v2。
-- 20% 展示动画：assets/previews/20-percent/xiaoma-all-states-20-percent.gif。
-- 20% 展示大画布：assets/previews/20-percent/xiaoma-atlas-20-percent-preview-only.png，1840×2750 像素，仅用于预览，不能用来安装。
+- 安装文件：xiaoma-spritesheet-v2.png，透明 PNG，1536×2288 像素，Pets v2。
+- 20% 展示动画：xiaoma-all-states-20-percent.gif。
+- 20% 展示大画布：xiaoma-atlas-20-percent-preview-only.png，1840×2750 像素，仅用于预览，不能用来安装。
 
 ## Desktop、Web 与工作区说明
 
@@ -35,4 +35,5 @@ ChatGPT Web 的上传入口为 Settings > Personalization > Pet。官方文档�
 参考：
 - OpenAI 官方 Pets 文档：https://learn.chatgpt.com/docs/pets
 - OpenAI 官方 Pets 安装链接说明：https://learn.chatgpt.com/docs/reference/commands
+
 
