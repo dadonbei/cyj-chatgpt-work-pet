@@ -37,3 +37,9 @@ ChatGPT Web 的上传入口为 Settings > Personalization > Pet。官方文档�
 - OpenAI 官方 Pets 安装链接说明：https://learn.chatgpt.com/docs/reference/commands
 
 
+## 可复制给 AI 的安装提示词
+
+下载 xiaoma-spritesheet-v2.png 并附加到 ChatGPT Work 对话，再发送：
+
+    请使用当前对话可用的 Pets 工具，使用我附加的 xiaoma-spritesheet-v2.png 原样创建一个名为“小码”的 ChatGPT Work 自定义桌宠。先校验 Pets v2 图集格式，再创建并激活。保留真人照片外观和全部动作，不重新生成、不改画风。不要把 20% 预览图集用作安装文件。完成后告诉我安装结果。
+
