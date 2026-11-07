@@ -26,5 +26,5 @@ ChatGPT 桌面应用可在 Settings > Pets > Customize > Pet size 调整桌宠�
 
 从 GitHub 下载 xiaoma-spritesheet-v2.png，将它作为附件发给 ChatGPT Work，然后复制这段提示词：
 
-    [请使用当前对话可用的 Pets 工具，使用我附加的 xiaoma-spritesheet-v2.png 原样创建一个名为“小码”的 ChatGPT Work 自定义桌宠。先校验 Pets v2 图集格式，再创建并激活。保留真人照片外观和全部动作，不重新生成、不改画风。不要把 20% 预览图集用作安装文件。完成后告诉我安装结果。](https://github.com/dadonbei/cyj-chatgpt-work-pet请使用当前对话可用的 Pets 工具，使用我附加的 连接中找到xiaoma-spritesheet-v2.png 原样创建一个名为“小码”的 ChatGPT Work 自定义桌宠。先校验 Pets v2 图集格式，再创建并激活。保留真人照片外观和全部动作，不重新生成、不改画风。不要把 20% 预览图集用作安装文件。完成后告诉我安装结果。)
+https://github.com/dadonbei/cyj-chatgpt-work-pet请使用当前对话可用的 Pets 工具，使用我附加的 连接中找到xiaoma-spritesheet-v2.png 原样创建一个名为“小码”的 ChatGPT Work 自定义桌宠。先校验 Pets v2 图集格式，再创建并激活。保留真人照片外观和全部动作，不重新生成、不改画风。不要把 20% 预览图集用作安装文件。完成后告诉我安装结果。
 
